@@ -9,3 +9,7 @@ make
 BINDIR=/usr/local/bin/ea-utils make install
 /usr/local/bin/ea-utils/fastq-mcf -h
 ```
+Then to perform analysis:
+```
+/usr/local/bin/ea-utils/fastq-mcf
+```
